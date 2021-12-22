@@ -7,7 +7,7 @@ weatherPart = wrapper.querySelector(".weather-part"),
 wIcon = weatherPart.querySelector("img"),
 arrowBack = wrapper.querySelector("header i");
 
-let api = "5961b094eba13f562e6eef9438324b06";
+// let api = "5961b094eba13f562e6eef9438324b06";
 
 inputField.addEventListener("keyup", e =>{
     // if user pressed enter btn and input value is not empty
